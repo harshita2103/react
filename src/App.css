@@ -1,0 +1,8 @@
+.container-fluid{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.container-fluid video{
+    height: 200px;
+}
